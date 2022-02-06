@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449926616898",
+    "project_id": "avenue-e8241",
+    "storage_bucket": "avenue-e8241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449926616898:android:92d1c34fb89762091d9adb",
+        "android_client_info": {
+          "package_name": "org.realestate.avenuerealestateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449926616898-713sndk7gg2oh689mlu3ocopqeheskqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.realestate.avenuerealestateapp",
+            "certificate_hash": "38326659f716a32127a3be51a1fa0e0c1dd9d72c"
+          }
+        },
+        {
+          "client_id": "449926616898-419d201147uv1c9ngngblj1jqprhhnh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXI1leU_nMXrzb8sQKVRN7rYTnokTfOzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449926616898-419d201147uv1c9ngngblj1jqprhhnh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

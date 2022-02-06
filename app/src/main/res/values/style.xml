@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Font family: Raleway Line height: 28sp-->
+    <!-- styles.xml -->
+    <style name="looking_to_">
+
+        <item name="android:textSize">
+            24sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+
+    <style name="oh_you_">
+
+        <item name="android:textSize">
+            24sp
+        </item>
+
+        <item name="android:textColor">
+            #DD5858
+        </item>
+
+    </style>
+
+    <!--
+  Font family: Raleway
+  Line height: 28sp
+-->
+    <!-- styles.xml -->
+    <style name="can_">
+
+        <item name="android:textSize">
+            24sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+
+    <!--
+  Font family: Raleway
+  Line height: 21sp
+-->
+    <!-- styles.xml -->
+    <style name="we_know_you">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+
+    <style name="sell">
+
+        <item name="android:textSize">
+            72sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+
+    </style>
+
+    <style name="anytime_">
+
+        <item name="android:textSize">
+            24sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <style name="avenue_lets">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #827F7F
+        </item>
+
+    </style>
+    <!--
+          Font family: Raleway
+          Line height: 26sp
+        -->
+    <!-- styles.xml -->
+    <style name="sign_in">
+
+        <item name="android:textSize">
+            22sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!--
+     Font family: Raleway
+     Line height: 31sp
+   -->
+    <!-- styles.xml -->
+    <style name="welcome_bac">
+
+        <item name="android:textSize">
+            26sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!--
+          Font family: Raleway
+          Line height: 21sp
+        -->
+    <!-- styles.xml -->
+    <style name="sign_in_wit">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+    <!--
+     Font family: Raleway
+     Line height: 21sp
+   -->
+    <!-- styles.xml -->
+    <style name="enter_your_">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="enter_your_password">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+    <!--
+        Font family: Raleway
+        Line height: 16sp
+      -->
+    <!-- styles.xml -->
+    <style name="remember_me">
+
+        <item name="android:textSize">
+            14sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!--
+         Font family: Raleway
+         Line height: 16sp
+       -->
+    <!-- styles.xml -->
+    <style name="forgot_pass">
+
+        <item name="android:textSize">
+            14sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!--
+      Font family: Raleway
+      Line height: 26sp
+    -->
+    <!-- styles.xml -->
+    <style name="continues">
+
+        <item name="android:textSize">
+            22sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+    <!--
+         Font family: Raleway
+         Line height: 21sp
+       -->
+    <!-- styles.xml -->
+    <style name="don_t_have_">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+
+    <style name="signup">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #DD5858
+        </item>
+
+    </style>
+
+    <!-- styles.xml -->
+    <style name="sign_up">
+
+        <item name="android:textSize">
+            22sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+
+    <!-- styles.xml -->
+    <style name="register_ac">
+
+        <item name="android:textSize">
+            26sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+
+    <!-- styles.xml -->
+    <style name="complete_yo">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="enter_your">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="enter_your_pass">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="confir_">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="continue_">
+
+        <item name="android:textSize">
+            20sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="by_continui">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="avenue">
+
+        <item name="android:textSize">
+            34sp
+        </item>
+
+        <item name="android:textColor">
+            #DD5858
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="search_for_">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+
+    <!-- styles.xml -->
+    <style name="categories">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="registration">
+
+        <item name="android:textSize">
+            22sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="complete_pr">
+
+        <item name="android:textSize">
+            26sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="complete_you">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="enter_your_first">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="enter_your_last">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="enter_phone_number">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="enter_your_address">
+
+        <item name="android:textSize">
+            18sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="by_continuie">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:textColor">
+            #9B9797
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="all">
+        <item name="android:textSize">
+            15sp
+        </item>
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="apartment">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="house">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="office_spac">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="recommended">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="rose_house">
+
+        <item name="android:textSize">
+            17sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="some_id">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="lilongwe">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+    <!-- styles.xml -->
+    <style name="beds">
+
+        <item name="android:textSize">
+            15sp
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

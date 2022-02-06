@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646526445709",
+    "project_id": "avenue-real-estate-app-001c",
+    "storage_bucket": "avenue-real-estate-app-001c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646526445709:android:1f35e3dee3f2189f331ac4",
+        "android_client_info": {
+          "package_name": "org.realestate.avenuerealestateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646526445709-of7evldbcn2tp1f7ue3v705nllrsvf6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRCTMdENbfBijl8eHY0j9WwiFNcuRLN4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646526445709-of7evldbcn2tp1f7ue3v705nllrsvf6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

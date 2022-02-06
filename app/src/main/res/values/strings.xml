@@ -1,0 +1,219 @@
+<resources>
+    <string name="app_name">Avenue Real Estate App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="looking_to_">Looking to buy a home?</string>
+    <string name="oh_you_">Oh You</string>
+    <string name="can_">Can.</string>
+    <string name="we_know_you">We know you have alot to do.So we make it easy to buy homes anytime,anywhere</string>
+    <string name="sell">sell</string>
+    <string name="anytime_">Anytime.</string>
+    <string name="avenue_lets">
+        Avenue lets you search homes and apartments,list yours for sale or rent ,tour the home through pictures,connect with agents,save your searches and receive push notifications of updates to your search criteria
+    </string>
+    <!-- strings.xml -->
+    <string name="sign_in">Sign in</string>
+    <!-- strings.xml -->
+    <string name="welcome_bac">Welcome Back</string>
+
+
+    <!-- strings.xml -->
+    <string name="sign_in_wit">
+        Sign in with your email and password or continue with social media
+    </string>
+    <!-- strings.xml -->
+    <string name="enter_your_">
+        Enter your email
+    </string>
+    <!-- strings.xml -->
+    <string name="enter_your_password">
+        Enter your password
+    </string>
+
+    <!-- strings.xml -->
+    <string name="remember_me">
+
+        Remember me
+    </string>
+    <!-- strings.xml -->
+    <string name="forgot_pass">
+
+        Forgot password
+    </string>
+    <!-- strings.xml -->
+    <string name="continues">
+
+        Continue
+    </string>
+    <!-- strings.xml -->
+    <string name="don_t_have_">
+
+        Do not have an account?
+    </string>
+    <string name="signup">
+        Sign up
+    </string>
+
+    <!-- strings.xml -->
+    <string name="sign_up">Sign up</string>
+
+    <!-- strings.xml -->
+    <string name="register_ac">
+
+        Register Account
+    </string>
+
+    <!-- strings.xml -->
+    <string name="complete_yo">
+        Complete your details or continue with social media
+    </string>
+
+    <!-- strings.xml -->
+    <string name="enter_your">
+        Enter your email
+    </string>
+
+
+    <!-- strings.xml -->
+    <string name="enter_your_pass">
+        Enter your password
+    </string>
+
+    <!-- strings.xml -->
+    <string name="confir_">
+        Confirm you password
+    </string>
+    <!-- strings.xml -->
+    <string name="continue_">
+        Continue
+    </string>
+
+    <!-- strings.xml -->
+    <string name="categories">
+        Categories
+    </string>
+
+    <!-- strings.xml -->
+    <string name="by_continui">
+        By continuing you confirm that you agree with our terms and conditions
+    </string>
+
+    <!-- strings.xml -->
+    <string name="avenue">
+        Avenue
+    </string>
+
+    <!-- strings.xml -->
+    <string name="search_for_">
+        Search for property
+    </string>
+    <!-- strings.xml -->
+    <string name="registration">
+        Sign Up
+    </string>
+
+    <!-- strings.xml -->
+    <string name="complete_pr">
+        Complete Profile</string>
+
+    <!-- strings.xml -->
+    <string name="complete_you">
+        Complete your details or complete with social media
+    </string>
+    <!-- strings.xml -->
+    <string name="enter_your_first">
+        Enter your first name
+    </string>
+    <!-- strings.xml -->
+    <string name="enter_your_last">
+        Enter your last name
+    </string>
+    <!-- strings.xml -->
+    <string name="enter_phone_number">
+        Enter your phone number
+    </string>
+    <!-- strings.xml -->
+    <string name="enter_your_address">
+        Enter your address
+    </string>
+    <!-- strings.xml -->
+    <string name="continues_">
+        Continue
+    </string>
+
+    <!-- strings.xml -->
+    <string name="by_continuie">
+        By continuing you confirm that you agree with our terms and conditions
+    </string>
+    <!-- strings.xml -->
+    <string name="all">
+        All
+    </string>
+    <!-- strings.xml -->
+    <string name="apartment">
+        Apartment
+    </string>
+    <!-- strings.xml -->
+    <string name="house">
+        House
+    </string>
+    <!-- strings.xml -->
+    <string name="office_spac">
+        Office Space
+    </string>
+
+    <!-- strings.xml -->
+    <string name="recommended">
+        Recommended
+    </string>
+    <!-- strings.xml -->
+    <string name="rose_house">
+        Rose House
+    </string>
+    <!-- strings.xml -->
+    <string name="some_id">
+        4.5
+    </string>
+    <!-- strings.xml -->
+    <string name="lilongwe">
+        Lilongwe
+    </string>
+    <!-- strings.xml -->
+    <string name="beds">
+        6 Beds
+    </string>
+    <!-- strings.xml -->
+    <string name="m2">
+        745m2
+    </string>
+    <!-- strings.xml -->
+    <string name="m22_">
+        82m2
+    </string>
+    <!-- strings.xml -->
+    <string name="m222_">
+        70m2
+    </string>
+    <!-- strings.xml -->
+    <string name="baths">
+        2 Baths
+    </string>
+    <!-- strings.xml -->
+    <string name="mwk_800_day">
+        Mwk 800/day\n
+    </string>
+    <!-- strings.xml -->
+    <string name="mwk_500_month">
+        Mwk 500/month\n
+    </string>
+    <!-- strings.xml -->
+    <string name="ellen_house">
+        Ellen House
+    </string>
+
+    <!-- strings.xml -->
+    <string name="m2_">
+        554m2
+    </string>
+    <string name="View">View</string>
+</resources>
